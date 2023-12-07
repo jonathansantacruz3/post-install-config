@@ -29,6 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure agents (associates)
 - Configure users (customers)
 - Configure SLAs
+- Configure help topics 
 
 <h2>Configuration Steps</h2>
 
