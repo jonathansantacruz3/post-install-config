@@ -157,4 +157,4 @@ I decided to make four other help topics:
 ![image](https://github.com/jonathansantacruz3/post-install-config/assets/151465848/163da0ad-cbb4-44f5-86de-5923c6857c73)
 
 
-This is how to configure and set the right settings for osTicket to be fully functional and ready to use for the end user and agent alike. 
+This is how to configure and set the right settings for osTicket to be functional and ready to use for the end user and agent alike. 
