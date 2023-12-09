@@ -122,34 +122,39 @@ I repeated the process with John's account, except, instead of giving him full a
 </p>
 <br />
 
-Users are the ticket owners of the tickets in the help desk. In other words they are the customers needing assistance in resolving a a tech related issue.
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-SLA Plans or Service Level Agreement provide a length of time in which the help desk Administrator expects tickets to be closed.
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-Help Topics will determine what Department the ticket is routed to which will determine which Agents have access to the ticket. The Help Topic also can determine other configurations of the ticket, such as the ticket’s SLA (or Service Level Agreement) and priority of a ticket, i.e. Emergency to Low.
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/jonathansantacruz3/post-install-config/assets/151465848/6c5ac7b3-9bde-4db9-ad8f-d67e421ac33d)
 
 
+Users are the ticket owners of the tickets in the help desk. In other words they are the customers needing assistance in resolving a a tech related issue. In this part of the project I created two new users, Karen and Ken. 
+
+![image](https://github.com/jonathansantacruz3/post-install-config/assets/151465848/dd48658d-91ae-4fc7-989b-f6b69732700d)
+
+![image](https://github.com/jonathansantacruz3/post-install-config/assets/151465848/90512a75-0345-40b2-97c1-08c5aacf4dba)
+
+![image](https://github.com/jonathansantacruz3/post-install-config/assets/151465848/796ef6cd-509f-41b2-8941-da745664f943)
+
+
+SLA Plans or Service Level Agreement provide a length of time in which the help desk Administrator expects tickets to be closed. I created three different SLAs to assign priority levels to tickets. Sev-A has a grace period of one hour on a 24/7 basis for high priority tickets. Sev-B has 4 hours grace period with a 24/7 basis for medium priority tickets. Lastly, Sev-C has the lowest priority level with 8 hours of a grace period and it is based within business hours between 8 a.m. and 4:30 p.m.
+
+![image](https://github.com/jonathansantacruz3/post-install-config/assets/151465848/15df64b0-b213-49a4-adb5-7a86450cc640)
+
+This is how i filled out all three SLAs. 
+
+![image](https://github.com/jonathansantacruz3/post-install-config/assets/151465848/59d2081f-80c8-4004-9960-2455f4132c24)
+
+Help topics will facilitate ticket creation for the end user by helping the agents assign proper assignment and prompt response times. It lets the agents know what type of issue the end user is experiencing. Help Topics will determine what Department the ticket is routed to which will determine which Agents have access to the ticket. The Help Topic also can determine other configurations of the ticket, such as the ticket’s SLA (or Service Level Agreement) and priority of a ticket, i.e. Emergency to Low. 
+
+I decided to make four other help topics:
+
+- Business Critical  Outage 
+- Personal Computer Issues 
+- Equipment Request 
+- Password Reset
+
+
+
+
+![image](https://github.com/jonathansantacruz3/post-install-config/assets/151465848/163da0ad-cbb4-44f5-86de-5923c6857c73)
+
+
+This is how to configure and set the right settings for osTicket to be fully functional and ready to use for the end user and agent alike. 
